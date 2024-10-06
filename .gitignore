@@ -1,3 +1,10 @@
+# Игнорировать папки:
+target/*
+!target/site/
+!target/site/jacoco/
+resources/
+.idea/
+
 # Compiled class file
 *.class
 
