@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="FelineTest" time="0.0" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\Anastasia\IdeaProjects\qa_java-main\target\test-classes;C:\Users\Anastasia\IdeaProjects\qa_java-main\target\classes;C:\Users\Anastasia\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Anastasia\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Anastasia\.m2\repository\org\mockito\mockito-core\4.6.1\mockito-core-4.6.1.jar;C:\Users\Anastasia\.m2\repository\net\bytebuddy\byte-buddy\1.12.10\byte-buddy-1.12.10.jar;C:\Users\Anastasia\.m2\repository\net\bytebuddy\byte-buddy-agent\1.12.10\byte-buddy-agent-1.12.10.jar;C:\Users\Anastasia\.m2\repository\org\objenesis\objenesis\3.2\objenesis-3.2.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk17.0.12_7\bin"/>
+    <property name="sun.java.command" value="C:\Users\Anastasia\AppData\Local\Temp\surefire12374299009200659373\surefirebooter-20241006114821025_3.jar C:\Users\Anastasia\AppData\Local\Temp\surefire12374299009200659373 2024-10-06T11-48-20_869-jvmRun1 surefire-20241006114821025_1tmp surefire_0-20241006114821025_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Anastasia\IdeaProjects\qa_java-main\target\test-classes;C:\Users\Anastasia\IdeaProjects\qa_java-main\target\classes;C:\Users\Anastasia\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Anastasia\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Anastasia\.m2\repository\org\mockito\mockito-core\4.6.1\mockito-core-4.6.1.jar;C:\Users\Anastasia\.m2\repository\net\bytebuddy\byte-buddy\1.12.10\byte-buddy-1.12.10.jar;C:\Users\Anastasia\.m2\repository\net\bytebuddy\byte-buddy-agent\1.12.10\byte-buddy-agent-1.12.10.jar;C:\Users\Anastasia\.m2\repository\org\objenesis\objenesis\3.2\objenesis-3.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Anastasia"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-07-16"/>
+    <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk17.0.12_7"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Anastasia\IdeaProjects\qa_java-main"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Anastasia\AppData\Local\Temp\surefire12374299009200659373\surefirebooter-20241006114821025_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.12+7-LTS"/>
+    <property name="user.name" value="Stasia"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1251"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Corretto-17.0.12.7.1"/>
+    <property name="localRepository" value="C:\Users\Anastasia\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-17/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ANASTA~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.12"/>
+    <property name="user.dir" value="C:\Users\Anastasia\IdeaProjects\qa_java-main"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Program Files\Amazon Corretto\jdk17.0.12_7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\Anastasia\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\Anastasia\bin;C:\Program Files\Amazon Corretto\jdk17.0.12_7\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;C:\Program Files\dotnet;C:\Users\Anastasia\AppData\Local\Microsoft\WindowsApps;C:\Users\Anastasia\AppData\Local\GitHubDesktop\bin;C:\Program Files\apache-maven-3.9.8\bin;C:\Users\Anastasia\.jdks\corretto-11.0.24\bin;D:\Programms\WebStorm 2024.1.5\bin;C:\Users\Anastasia\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\Anastasia\AppData\Local\Keybase;D:\WebDriver\bin;C:\Users\Anastasia\AppData\Local\Microsoft\WindowsApps;C:\Users\Anastasia\AppData\Local\GitHubDesktop\bin;C:\Program Files\apache-maven-3.9.8\bin;C:\Users\Anastasia\.jdks\corretto-11.0.24\bin;D:\Programms\WebStorm 2024.1.5\bin;C:\Users\Anastasia\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\Anastasia\AppData\Local\Keybase;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="17.0.12+7-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testGetKittensWithArgument" classname="FelineTest" time="0.0"/>
+  <testcase name="testGetKittensDefault" classname="FelineTest" time="0.0"/>
+  <testcase name="testGetFamily" classname="FelineTest" time="0.0"/>
+  <testcase name="testEatMeat" classname="FelineTest" time="0.0"/>
+</testsuite>
