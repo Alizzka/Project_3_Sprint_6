@@ -1,8 +1,8 @@
-import com.example.Animal;
-import org.junit.Test;
-import java.util.List;
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertThrows;
+import com.example.Animal; // Импортируем класс Animal, который мы будем тестировать.
+import org.junit.Test; // Импортируем аннотацию @Test из JUnit, которая обозначает метод как тест.
+import java.util.List; // Импортируем класс List, так как метод getFood возвращает список.
+import static org.junit.Assert.assertEquals; // Импортируем метод assertEquals, который используется для проверки равенства ожидаемого и фактического результата.
+import static org.junit.Assert.assertThrows; // Импортируем метод assertThrows, который проверяет, что метод выбрасывает исключение.
 
 public class AnimalTest {
 

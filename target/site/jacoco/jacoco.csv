@@ -2,5 +2,5 @@ GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_
 untitled,com.example,Feline,0,15,0,0,0,5,0,5,0,5
 untitled,com.example,Animal,0,27,0,4,0,7,0,5,0,3
 untitled,com.example,Alex,0,14,0,0,0,5,0,4,0,4
-untitled,com.example,Lion,5,34,1,3,1,10,1,5,0,4
+untitled,com.example,Lion,0,39,0,4,0,11,0,6,0,4
 untitled,com.example,Cat,0,12,0,0,0,5,0,3,0,3

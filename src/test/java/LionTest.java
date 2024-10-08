@@ -46,5 +46,12 @@ public class LionTest {
         List<String> food = lion.getFood();
         assertEquals(List.of("Мясо"), food);
     }
+
+    @Test(expected = Exception.class)
+    public void shouldThrowExceptionForInvalidSex() throws Exception {
+        // Передаём некорректное значение для пола, чтобы вызвать исключение
+        Feline feline = new Feline();
+        Lion lion = new Lion("Неизвестно", feline);
+    }
 }
 

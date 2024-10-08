@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="LionParameterizedTest" time="0.01" tests="2" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="LionParameterizedTest" time="0.009" tests="2" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="RU"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk17.0.12_7\bin"/>
-    <property name="sun.java.command" value="C:\Users\Anastasia\AppData\Local\Temp\surefire12374299009200659373\surefirebooter-20241006114821025_3.jar C:\Users\Anastasia\AppData\Local\Temp\surefire12374299009200659373 2024-10-06T11-48-20_869-jvmRun1 surefire-20241006114821025_1tmp surefire_0-20241006114821025_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Anastasia\AppData\Local\Temp\surefire10934635045604097533\surefirebooter-20241008202232938_3.jar C:\Users\Anastasia\AppData\Local\Temp\surefire10934635045604097533 2024-10-08T20-22-32_748-jvmRun1 surefire-20241008202232938_1tmp surefire_0-20241008202232938_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Anastasia\IdeaProjects\qa_java-main\target\test-classes;C:\Users\Anastasia\IdeaProjects\qa_java-main\target\classes;C:\Users\Anastasia\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Anastasia\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Anastasia\.m2\repository\org\mockito\mockito-core\4.6.1\mockito-core-4.6.1.jar;C:\Users\Anastasia\.m2\repository\net\bytebuddy\byte-buddy\1.12.10\byte-buddy-1.12.10.jar;C:\Users\Anastasia\.m2\repository\net\bytebuddy\byte-buddy-agent\1.12.10\byte-buddy-agent-1.12.10.jar;C:\Users\Anastasia\.m2\repository\org\objenesis\objenesis\3.2\objenesis-3.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Anastasia\AppData\Local\Temp\surefire12374299009200659373\surefirebooter-20241006114821025_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Anastasia\AppData\Local\Temp\surefire10934635045604097533\surefirebooter-20241008202232938_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.12+7-LTS"/>
@@ -57,6 +57,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testDoesHaveMane[0]" classname="LionParameterizedTest" time="0.0"/>
+  <testcase name="testDoesHaveMane[0]" classname="LionParameterizedTest" time="0.001"/>
   <testcase name="testDoesHaveMane[1]" classname="LionParameterizedTest" time="0.0"/>
 </testsuite>
