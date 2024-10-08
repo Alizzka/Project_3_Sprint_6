@@ -51,7 +51,7 @@ public class LionTest {
     public void shouldThrowExceptionForInvalidSex() throws Exception {
         // Передаём некорректное значение для пола, чтобы вызвать исключение
         Feline feline = new Feline();
-        Lion lion = new Lion("Неизвестно", feline);
+        Lion lion = new Lion("Неизвестнощщщщщщ", feline);
     }
 }
 
