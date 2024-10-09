@@ -1,9 +1,9 @@
 # Игнорировать папки:
 target/*
+!target/jacoco.exec/
 !target/site/
 !target/site/jacoco/
 !target/test-classes/
-!target/jacoco.exec/
 resources/
 .idea/
 
